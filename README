@@ -1,0 +1,16 @@
+Common repo for supported SE Xperia 2011 Devices
+
+
+kernel configs:
+---------------
+
+[doom_arc_defconfig]
+Device   : Xperia Arc
+Model No.: LT15
+Codename : anzu
+
+[doom_play_defconfig]
+Device   : Xperia Play
+Model No.: R800
+Codename : zeus
+
